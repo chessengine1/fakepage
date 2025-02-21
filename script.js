@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 // Update the total price
                 if (totalPriceElement) {
-                    totalPriceElement.textContent = '$6.92';
+                    totalPriceElement.textContent = '$14.89';
                 }
             } else {
                 // Hide all elements with class 'appearlater'
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 // Reset the total price
                 if (totalPriceElement) {
-                    totalPriceElement.textContent = '$56.92';
+                    totalPriceElement.textContent = '$64.89';
                 }
             }
         });
